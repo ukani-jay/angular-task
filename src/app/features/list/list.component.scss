@@ -1,0 +1,12 @@
+.list-container {
+  padding: 2rem;
+
+  .items-grid {
+    display: flex;
+    gap: 1rem;
+
+    .item-card {
+      padding: 1rem;
+    }
+  }
+}

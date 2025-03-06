@@ -1,0 +1,10 @@
+<div class="dashboard">
+  <header>
+    <h1>Welcome, {{ userEmail$ | async }}!</h1>
+    <button (click)="logout()">Logout</button>
+  </header>
+  
+  <main>
+    <button (click)="navigateToList()">Go to List</button>
+  </main>
+</div> 
