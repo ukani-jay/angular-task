@@ -1,3 +1,31 @@
+# Angular Authentication App
+
+A simple Angular application demonstrating authentication, protected routes, and state management using NGRX.
+
+## Features
+
+- User authentication with cookie-based token storage
+- Protected routes with AuthGuard
+- State management using NGRX
+- Reactive Forms with validation
+- Mock API integration
+- Loading and error states
+- Responsive design
+
+## Tech Stack
+
+- Angular 16+
+- NGRX for state management
+- ngx-cookie-service for cookie handling
+- Reactive Forms for form handling
+- SCSS for styling
+
+## Login Credential
+Email: test@test.com
+Password: password123
+
+## Project Structure
+
 # AngularTask
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
